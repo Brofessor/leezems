@@ -1,0 +1,4 @@
+ruby@ruby-virtual-machine:~/leeze.ms$ heroku apps:create leeze1337               
+Creating leeze1337... done, stack is cedar                                       
+http://leeze1337.herokuapp.com/ | git@heroku.com:leeze1337.git                   
+Git remote heroku added   
